@@ -20,7 +20,11 @@
 
   </a>  
 </p>
+<img src="https://telegra.ph/file/522d97c7fca9a4bf6b936.jpg"><br>
 
+
+```
+from tg_bot.sample_config import Config
 - 👋 Hi, I’m @Lucifer_Devil_AD
 - 👀 I’m interested in Telegram Bot Building
 - 🌱 I’m currently learning From Github
