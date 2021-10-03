@@ -21,23 +21,16 @@
   </a>  
 </p>
 
-A modular telegram Python bot running on python3 with an sqlalchemy database.
+- 👋 Hi, I’m @Lucifer_Devil_AD
+- 👀 I’m interested in Telegram Bot Building
+- 🌱 I’m currently learning From Github
+- 💞️ I’m looking to collaborate on Big Company
+- 📫 How to reach me- [My Telegram](https://t.me/Lucifer_Devil_AD)
 
-Originally a simple group management bot with multiple admin features, it has evolved, becoming extremely modular and 
-simple to use.
+🍒 This is a Noob  Filter Bot From Ideas of @Lucifer_Devil_AD..<br>
+🍒 This Bot Is Just For Me!!!
+🍒 You Can join [My Telegram Movie Group](https://t.me/ADMOVEIAD)
 
-Can be found on telegram as [കൊച്ചുമുതലാളി](https://t.me/kochubot).
-
-Kochu and I are moderating a [support group](https://t.me/), where you can ask for help setting up your
-bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
-I'll also help when a database schema changes, and some table column needs to be modified/added. Note to maintainers that all schema changes will be found in the commit messages, and its their responsibility to read any new commits.
-
-Join the [news channel](https://t.me/ADMOVEI) if you just want to stay in the loop about new features or
-announcements.
-
-Alternatively, [find me on telegram](https://t.me/Lucifer_Devil_AD)! (Keep all support questions in the support chat, where more people can help you.)
-
-To deploy me on heroku, use below button:
 
 ### Deploy
 
