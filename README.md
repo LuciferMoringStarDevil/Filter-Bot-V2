@@ -1,22 +1,22 @@
-# MT-Rose-Bot-Model                                                           
+#  Filter-Bot-V2                                                         
                                                   
-[![Open Source? Yes!](https://badgen.net/badge/Oᴘᴇɴ%20Sᴏᴜʀᴄᴇ%20%3F/Yᴇs/yellow?icon=github)](https://github.com/MRK-YT/MT-FilesStoreBot)
+[![Open Source? Yes!](https://badgen.net/badge/Oᴘᴇɴ%20Sᴏᴜʀᴄᴇ%20%3F/Yᴇs/yellow?icon=github)](https://github.com/LuciferMoringStarDevil/Filter-Bot-V2)
 [![Ask Me Anything !](https://img.shields.io/badge/🤔%20Asᴋ%20Mᴇ-Aɴʏᴛʜɪɴɢ-1abc9c.svg)](https://telegram.dog/Mrk_Yt)
-[![Report Bugs!](https://badgen.net/badge/🐞%20Rᴇᴘᴏʀᴛ%20/Bᴜɢs/red)](https://telegram.dog/mrk_yt)
-[![Join Channel !](https://badgen.net/badge/🔊%20Jᴏɪɴ%20/Cʜᴀɴɴᴇʟ/Black)](https://telegram.dog/mo_Tech_yt)
+[![Report Bugs!](https://badgen.net/badge/🐞%20Rᴇᴘᴏʀᴛ%20/Bᴜɢs/red)](https://telegram.dog/Lucifer_Devil_AD)
+[![Join Channel !](https://badgen.net/badge/🔊%20Jᴏɪɴ%20/Cʜᴀɴɴᴇʟ/Black)](https://telegram.dog/ADMOVEI)
 
 <p align="center">
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
   </a>
 <p align="center">
-  <a href="https://github.com/MRK-YT/MT-Rose-Bot-Model/stargazers">
-    <img src="https://img.shields.io/github/stars/MRK-YT/MT-Rose-Bot-Model?style=social">
+  <a href="https://github.com/LuciferMoringStarDevil/Filter-Bot-V2/stargazers">
+    <img src="https://github.com/LuciferMoringStarDevil/Filter-Bot-V2?style=social">
 
   </a>
   
-  <a href="https://github.com/MRK-YT/MT-Rose-Bot-Model/fork">
-    <img src="https://img.shields.io/github/forks/MRK-YT/MT-Rose-Bot-Model?label=Fork&style=social">
+  <a href="https://github.com/LuciferMoringStarDevil/Filter-Bot-V2/fork">
+    <img src="https://github.com/LuciferMoringStarDevil/Filter-Bot-V2?label=Fork&style=social">
 
   </a>  
 </p>
@@ -28,14 +28,14 @@ simple to use.
 
 Can be found on telegram as [കൊച്ചുമുതലാളി](https://t.me/kochubot).
 
-Kochu and I are moderating a [support group](https://t.me/Mo_Tech_Group), where you can ask for help setting up your
+Kochu and I are moderating a [support group](https://t.me/), where you can ask for help setting up your
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
 I'll also help when a database schema changes, and some table column needs to be modified/added. Note to maintainers that all schema changes will be found in the commit messages, and its their responsibility to read any new commits.
 
-Join the [news channel](https://t.me/Mo_Tech_YT) if you just want to stay in the loop about new features or
+Join the [news channel](https://t.me/ADMOVEI) if you just want to stay in the loop about new features or
 announcements.
 
-Alternatively, [find me on telegram](https://t.me/Mrk_YT)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatively, [find me on telegram](https://t.me/Lucifer_Devil_AD)! (Keep all support questions in the support chat, where more people can help you.)
 
 To deploy me on heroku, use below button:
 
@@ -74,8 +74,8 @@ from tg_bot.sample_config import Config
 
 
 class Development(Config):
-    OWNER_ID = 254318997  # my telegram ID
-    OWNER_USERNAME = "SonOfLars"  # my telegram username
+    OWNER_ID = 1442587694  # my telegram ID
+    OWNER_USERNAME = "Lucifer_Devil_AD"  # my telegram username
     API_KEY = "your bot api key"  # my api key, as provided by the botfather
     SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'  # sample db credentials
     MESSAGE_DUMP = '-1234567890' # some group chat that your bot is a member of
